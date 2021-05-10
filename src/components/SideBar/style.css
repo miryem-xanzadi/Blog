@@ -1,0 +1,65 @@
+.sidebarContainer{
+    width: 25%;
+    margin: 10px 0;
+    
+    /* background: #fff; */
+}
+
+.cardHeader{
+ text-transform: uppercase;
+ font-size: 15px;
+ box-sizing: border-box;
+letter-spacing: 2px;
+color: #333;
+
+text-align:center;
+
+}
+.profileimageContainer{
+    width: 100%;
+   
+
+}
+.profileimageContainer img{
+    max-width: 100%;
+    max-height: 100%;
+    padding-top: 20px;
+   
+}
+.cardBody{
+    justify-content: first baseline;
+    text-transform: capitalize;
+    font-size: 15px;
+    text-align: center;
+    color:#565673;
+    font-weight: normal;
+    letter-spacing: 1px;
+    
+}
+.recentPost{
+    border-bottom: 1px solid  #eeee;
+   
+}
+.recentPost h3 {
+
+color:#6c6c6c;
+letter-spacing: 1px;
+font-size: 14px;
+font-weight: bold;
+margin: 0;
+
+}
+.recentPost span {
+
+    
+    font-size: 10px;
+    font-weight: bold;
+    color:#6c6c6c;
+    
+
+   
+
+    }
+    .recentPosts{
+        padding: 25px 0;
+    } 
